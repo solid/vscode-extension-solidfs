@@ -69,7 +69,7 @@
     "@comunica/query-sparql-solid": "^4.0.2",
     "@inrupt/solid-client": "^2.1.2",
     "@inrupt/solid-client-authn-node": "2.3.0",
-    "@inrupt/solid-client-notifications": "^1.1.1",
+    "@inrupt/solid-client-notifications": "^3.0.1",
     "@jeswr/solid-vscode-auth": "^0.0.0",
     "@rdfjs/types": "^1.1.0",
     "http-link-header": "^1.1.0",
