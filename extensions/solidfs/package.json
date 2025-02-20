@@ -73,7 +73,7 @@
     "@jeswr/solid-vscode-auth": "^0.0.0",
     "@rdfjs/types": "^2.0.1",
     "http-link-header": "^1.1.0",
-    "jsonld-streaming-parser": "^3.1.0",
+    "jsonld-streaming-parser": "^5.0.0",
     "md5": "^2.3.0",
     "n3": "^1.16.3",
     "solid-bashlib": "^0.6.0"
