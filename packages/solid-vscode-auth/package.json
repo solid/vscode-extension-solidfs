@@ -38,6 +38,6 @@
   "dependencies": {
     "@inrupt/solid-client-authn-core": "2.3.0",
     "cross-fetch": "^4.1.0",
-    "jose": "^4.11.2"
+    "jose": "^6.0.4"
   }
 }
