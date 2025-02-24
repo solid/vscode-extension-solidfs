@@ -64,7 +64,7 @@
     "open": "^8.4.0",
     "playwright": "^1.30.0",
     "rollup": "^4.31.0",
-    "rollup-plugin-typescript2": "^0.34.1",
+    "rollup-plugin-typescript2": "^0.36.0",
     "solid-bashlib": "^0.6.0",
     "solidauth": "^0.0.1",
     "ts-jest": "^29.0.5",
