@@ -48,7 +48,7 @@
     "@types/node": "^22.10.7",
     "@types/vscode": "^1.74.0",
     "@vscode/test-electron": "^2.2.2",
-    "babel-loader": "^9.1.2",
+    "babel-loader": "^10.0.0",
     "copyfiles": "^2.4.1",
     "cross-fetch": "^4.1.0",
     "depcheck": "^1.4.3",
