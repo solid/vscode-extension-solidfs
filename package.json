@@ -60,7 +60,7 @@
     "license-checker": "^25.0.1",
     "mocha": "^11.1.0",
     "npm-check-updates": "^18.0.0",
-    "nx": "^20.4.4",
+    "nx": "^21.0.0",
     "open": "^10.1.0",
     "playwright": "^1.30.0",
     "rollup": "^4.31.0",
