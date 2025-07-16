@@ -41,7 +41,7 @@
     "@jeswr/css-init-utils": "^1.0.0",
     "@rushstack/eslint-patch": "^1.2.0",
     "@solid/community-server": "^7.1.7",
-    "@types/glob": "^8.0.1",
+    "@types/glob": "^9.0.0",
     "@types/jest": "^30.0.0",
     "@types/md5": "^2.3.2",
     "@types/mocha": "^10.0.1",
